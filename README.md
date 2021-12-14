@@ -33,7 +33,15 @@ npm run coverage
 
 ## Endpoints
 
-[health-check](http://localhost:3000/)
-[location](http://localhost:3000/v1/location/)
-[current/:city?](http://localhost:3000/v1/current/Buenos%20Aires/)
-[forecast/:city?](http://localhost:3000/v1/forecast/Buenos%20Aires/)
+```bash
+http://localhost:3000
+```
+```bash
+http://localhost:3000/v1/location
+```
+```bash
+http://localhost:3000/v1/current/Buenos%20Aires
+```
+```bash
+http://localhost:3000/v1/forecast/Buenos%20Aires
+```
