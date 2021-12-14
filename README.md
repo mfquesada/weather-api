@@ -8,7 +8,7 @@ Install dependencies
 npm install
 ```
 
-Create a .env file into root directory
+Create a .env file in the root directory with the following content
 
 ```bash
 PORT=3000
